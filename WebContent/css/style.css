@@ -1,0 +1,17 @@
+#myTable{
+	width: 80%;
+	text-align: center;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+#page,#search{
+	text-align: center;
+	padding: 10px;
+}
+a{
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
